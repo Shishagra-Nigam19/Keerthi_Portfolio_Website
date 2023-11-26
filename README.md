@@ -18,7 +18,7 @@ https://github.com/keerthikorumilli/Portfolio
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.PNG" width="900">
+<img src="website_images/ProjectPage.png" width="900">
   
 
 
